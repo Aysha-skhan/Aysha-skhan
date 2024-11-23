@@ -24,7 +24,7 @@
   - Mathematics (Linear Algebra, Calculus, Probability)
 
 ## 📫 How to reach me:
-- [Your Email](mailto:your-ayshaskak@gmail.com)
+- [Email](mailto:your-ayshaskak@gmail.com)
 - [LinkedIn Profile](https://www.linkedin.com/in/ayesha-khan-018171273)
 
 ## 😊 Pronouns:
