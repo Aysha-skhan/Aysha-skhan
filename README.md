@@ -34,23 +34,15 @@ Here are my most frequently used languages on GitHub:
 
 ---
 
-## 🚀 About Me:
+## 👀 Profile Views:
 
-I am a software developer with a passion for problem-solving and building scalable systems. My main areas of interest include machine learning, web development, and database management. Currently, I’m learning about cloud technologies and working on some exciting full-stack web projects.
-
-I enjoy collaborating with others and am always up for discussing new ideas or contributing to interesting open-source projects. If you'd like to collaborate, feel free to reach out!
-
+![Profile Views](https://img.shields.io/badge/Profile%20Views-100-blue)
 ---
 
 ## 📍 Let's Connect:
 
 - **LinkedIn:** [Aysha S. Khan](https://www.linkedin.com/in/ayesha-khan-018171273)
 
----
-
-## 👀 Profile Views:
-
-![Profile Views](https://img.shields.io/badge/Profile%20Views-100-blue)
 
 
 <!---
