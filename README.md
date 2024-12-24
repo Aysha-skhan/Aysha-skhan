@@ -8,9 +8,7 @@ Welcome to my GitHub! I'm a passionate data enthusiast. I enjoy building project
 
 - **Languages:**
   - Python 🐍
-  - C++ 💻
-  - JavaScript 🌐
-  - SQL (MySQL, PostgreSQL) 🗃️
+  - SQL 🗃️
 
 ---
 
