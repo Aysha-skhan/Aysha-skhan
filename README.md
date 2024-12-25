@@ -13,13 +13,6 @@ Welcome to my GitHub! I'm a passionate data enthusiast. I enjoy building project
 ---
 
 ## 📊 GitHub Stats:
-
-### Aysha's GitHub Stats
-
-- **Total Stars Earned:** ![Stars Badge](https://img.shields.io/github/stars/Aysha-skhan?style=social)
-- **Total Commits (2024):** 110 ✍️
-- **Total Pull Requests:** 10 📥
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aysha-skhan&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_rank=true&theme=radical)
 
 ---
