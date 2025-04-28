@@ -7,6 +7,9 @@ Welcome to my GitHub! I'm a passionate data enthusiast. I enjoy building project
 - **Languages:**
   - Python 🐍
   - SQL 🗃️
+  - C++
+  - Java
+  - Ruby
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aysha-skhan&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_rank=true&theme=radical)
