@@ -31,9 +31,3 @@ Here are my most frequently used languages on GitHub:
 
 - **LinkedIn:** [Aysha S. Khan](https://www.linkedin.com/in/ayesha-khan-018171273)
 
-
-
-<!---
-Aysha-skhan/Aysha-skhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
