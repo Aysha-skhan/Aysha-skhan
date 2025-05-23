@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a passionate data enthusiast. I enjoy building project
 
 - **Languages:**
   - Python 
-  - SQL 🗃️
+  - SQL 
   - C++
   - Java
   - Ruby
