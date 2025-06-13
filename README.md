@@ -22,10 +22,6 @@ Here are my most frequently used languages on GitHub:
 
 ---
 
-## 👀 Profile Views:
-
-![Profile Views](https://img.shields.io/badge/Profile%20Views-100-blue)
----
 
 ## 📍 Let's Connect:
 
