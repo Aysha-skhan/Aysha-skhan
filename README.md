@@ -12,14 +12,6 @@ Welcome to my GitHub! I'm a passionate data enthusiast. I enjoy building project
 
 ---
 
-## 📈 Most Used Languages:
-
-Here are my most frequently used languages on GitHub:
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aysha-skhan&layout=compact&theme=radical)
-
----
-
 
 ## 📍 Let's Connect:
 
