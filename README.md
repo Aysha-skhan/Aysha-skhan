@@ -9,8 +9,6 @@ Welcome to my GitHub! I'm a passionate data enthusiast. I enjoy building project
   - SQL 
   - C++
   - Java
-  - Ruby
-
 
 ---
 
